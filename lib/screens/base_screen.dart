@@ -43,7 +43,7 @@ class _BaseScreenState extends State<BaseScreen> {
               'assets/images/star_outlined.png',
               height: 24,
             ),
-            label: "Featured",
+            label: "Home",
           ),
           BottomNavigationBarItem(
             activeIcon: Image.asset(
